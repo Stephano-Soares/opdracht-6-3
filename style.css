@@ -1,0 +1,14 @@
+.container1{
+    display: flex;
+    justify-content: center;
+    
+}
+.iets2{
+    display: flex;
+    flex: 1;
+}
+.iets1{
+    display: flex;
+    flex: 2;
+    gap: 50px;
+}
